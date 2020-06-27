@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.4.0
+Build-Jdk-Spec: 11
+Implementation-Title: Infinispan Console
+Implementation-Version: 0.4.1.Final
+Implementation-Vendor: JBoss, a division of Red Hat
+Implementation-Build: $\{buildNumber}
+
